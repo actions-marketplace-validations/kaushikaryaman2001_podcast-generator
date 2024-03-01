@@ -5,7 +5,7 @@ runs:
   using: "docker"
   image: "Dockerfile"
 branding:
-  icons: "git-branch"
+  icons: "activity"
   color: "red"
 inputs:
   email:
